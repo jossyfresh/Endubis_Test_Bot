@@ -1,0 +1,43 @@
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Byte-compiled and log files
+*.log
+
+# Cache files
+*.cache
+*.egg-info/
+
+# macOS specific files
+.DS_Store
+
+# Docker files
+docker-compose.override.yml
+.dockerignore
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Debugger and profiler output
+*.prof
+*.profraw
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
